@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box
+}
+
+header {
+    padding: 25px;
+    text-align: center;
+    background-color: #ccc;
+    border: 2px solid blue;
+}
+
+nav {
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+nav ul{
+list-style-type: none;
+background-color: #ccc;
+margin-top: 0%;
+display: block;
+padding: 8px;
+border: 2px solid red
+}
+
+article {
+    float: left;
+    width: 80%;
+    padding: 0 20px;
+    background-color: #ccc;
+    border: 2px solid navy;
+}
